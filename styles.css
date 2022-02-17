@@ -54,6 +54,7 @@
 
 
 /*------------------ Section 1 -----------
+d1d1d1
 b9b9b9
 919191
 848484
@@ -61,13 +62,10 @@ b9b9b9
 dbe4e7
 */
 
-.sec1 {
-  background: #d1d1d1;
-}
 
 #block1 {
   height: 100vh;
-  background: #d1d1d1 url(./assets/images/bg-image.png) no-repeat right center;
+  background: #e2e2e2 url(./assets/images/bg-image.png) no-repeat right center;
   background-size: 50%;
 }
 
