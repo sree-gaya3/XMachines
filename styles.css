@@ -122,11 +122,16 @@ dbe4e7
   font-size: 17px;
   color: #939393;
 }
-.part2 p a{
+.contact-link {
   font-family: 'Manrope-SemiBold';
   font-size: 17px;
   color: #939393;
 }
+
+.contact-link a {
+  color: inherit;
+}
+
 
 .part3 .links a {
   font-family: "Manrope-Bold";
