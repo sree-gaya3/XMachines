@@ -62,7 +62,6 @@ b9b9b9
 dbe4e7
 */
 
-
 #block1 {
   height: 100vh;
   background: #e2e2e2 url(./assets/images/bg-image.png) no-repeat right center;
@@ -120,6 +119,11 @@ dbe4e7
 }
 .part2 p {
   font-family: 'Manrope-Medium';
+  font-size: 17px;
+  color: #939393;
+}
+.part2 p a{
+  font-family: 'Manrope-SemiBold';
   font-size: 17px;
   color: #939393;
 }
