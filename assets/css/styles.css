@@ -55,6 +55,7 @@
   -moz-transition: all 0.4s ease-in-out;
 }
 .shrink {
+  margin-top: 50px !important;
   padding-top: 15px !important;
   padding-bottom: 0 !important;
   min-height: 55px !important;
