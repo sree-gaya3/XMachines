@@ -55,10 +55,18 @@
   -moz-transition: all 0.4s ease-in-out;
 }
 .shrink {
-  padding-top: 15px !important;
+  margin-top: 0 !important;
+  padding-top: 0px !important;
   padding-bottom: 0 !important;
   min-height: 55px !important;
   background: transparent !important;
+}
+
+@media (max-width: 576px) {
+  .shrink {
+    margin-top: 50px !important;
+    padding-top: 15px !important;
+  }
 }
 
 .shrink .navbar-brand {
