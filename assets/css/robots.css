@@ -91,7 +91,7 @@ body {
 /*------------------------ Done with Sec 1 ------------------*/
 
 #robo-intro {
-  height: 40vh;
+  height: max-content;
 }
 
 #robo-intro h2 {
