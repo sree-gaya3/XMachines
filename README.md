@@ -18,7 +18,7 @@ See the live website [here](https://xmachines-5df86.web.app/)
 ### Prerequisites
 - Firebase Account
 
-### get a local copy to your system
+### Get a local copy of the repo into your system
 
 1. Clone the repository `https://github.com/sree-gaya3/XMachines.git`
 
