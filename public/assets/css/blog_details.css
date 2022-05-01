@@ -1,0 +1,39 @@
+
+.small_text h4 {
+  font-family: "Manrope";
+  font-weight: 600;
+  font-size: 14px;
+  letter-spacing: 2px;
+  color: #000000;
+  line-height: 20px;
+}
+
+.small_text h6 {
+  font-family: "Manrope";
+  font-size: 12px;
+  letter-spacing: 0.5px;
+  line-height: 32px;
+  color: black;
+  font-weight: 400;
+}
+
+.content_text h1 {
+  font-family: quicksand;
+  font-size: 48px;
+  line-height: 52px;
+  font-weight: 600;
+}
+
+.content_text p {
+  font-family: quicksand;
+  font-size: 16px;
+  letter-spacing: 0.5px;
+  line-height: 32px;
+  color: black;
+  font-weight: 400;
+}
+
+.blog-img {
+  width: 100%;
+  height: auto;
+}
