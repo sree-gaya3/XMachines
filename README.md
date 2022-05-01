@@ -97,4 +97,4 @@ See the live website [here](https://xmachines-5df86.web.app/)
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE.md](./LICENSE.md) for details
+This project is licensed under the MIT License - see the [LICENSE.md](https://github.com/sree-gaya3/XMachines/blob/main/LICENSE) for details
